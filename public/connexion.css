@@ -1,0 +1,129 @@
+#login-widht{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#login{
+    width: 65em;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    background:rgba(255,255,255,0.1);
+    width: 20em;
+    border: none;
+    border-radius: 3ex;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+
+#login-form{
+    height: 20em;
+}
+
+#register-form{
+    height: 28em;
+}
+
+h3{
+    color: white;
+    font-family: "Cooper Black", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.form-group{
+    height: 5em;
+}
+
+.text-info{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: large;
+}
+
+form input[type=email]{
+    background: rgba(255,255,255,0.1);
+    border:none;
+    border-radius: 5px;
+    width: 99%;
+    height: 2em;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+
+form input[type=text]{
+    background: rgba(255,255,255,0.1);
+    border:none;
+    border-radius: 5px;
+    width: 99%;
+    height: 2em;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+
+form input[type=password]{
+    background: rgba(255,255,255,0.1);
+    border:none;
+    border-radius: 5px;
+    width: 99%;
+    height: 2em;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+
+.form-submit{
+    display: flex;
+    justify-content: center;
+}
+
+input[type=submit]{
+    background: rgba(255,255,255,0.1);
+    border: 0.15em solid black;
+    border-radius: 5pt;
+    padding: 0.5em;
+    color: white;
+    font-family: "Cooper Black",sans-serif;
+    font-size:large;
+    margin-bottom: 0.5em;
+}
+
+input[type=button]{
+    height: 2em;
+
+}
+
+#register-link{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+form .form-button-connect{
+    width: 49%;
+    border: none;
+    background: none;
+
+}
+
+form .form-button-idenf{
+
+    width: 49%;
+    border: none;
+    background: rgba(255,255,255,0.1);
+}
+
+img{
+    width: 30em;
+    height: auto;
+}
