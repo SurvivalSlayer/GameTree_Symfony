@@ -1,0 +1,14 @@
+fe314a,::1,GET,https://localhost:8000/,1607644076,,404
+0ddab2,::1,GET,https://localhost:8000/favicon.ico,1607644077,6eee19,404
+6eee19,::1,GET,https://localhost:8000/favicon.ico,1607644077,,404
+87b850,::1,GET,https://localhost:8000/user,1607644082,,200
+b92bf0,::1,GET,https://localhost:8000/,1607862759,,404
+6dade3,::1,GET,https://localhost:8000/favicon.ico,1607862766,cea943,404
+cea943,::1,GET,https://localhost:8000/favicon.ico,1607862766,,404
+81d48f,::1,GET,https://localhost:8000/user,1607862769,,200
+ad7b7c,::1,GET,https://localhost:8000/css/style.css,1607862770,b82a1c,404
+b82a1c,::1,GET,https://localhost:8000/css/style.css,1607862770,,404
+12f61e,::1,GET,https://localhost:8000/user,1607864206,,200
+384bc7,::1,GET,https://localhost:8000/css/style.css,1607864207,b05c2a,404
+b05c2a,::1,GET,https://localhost:8000/css/style.css,1607864207,,404
+430675,::1,GET,https://localhost:8000/,1607864212,,404
