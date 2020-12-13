@@ -12,3 +12,6 @@ b82a1c,::1,GET,https://localhost:8000/css/style.css,1607862770,,404
 384bc7,::1,GET,https://localhost:8000/css/style.css,1607864207,b05c2a,404
 b05c2a,::1,GET,https://localhost:8000/css/style.css,1607864207,,404
 430675,::1,GET,https://localhost:8000/,1607864212,,404
+d421b8,::1,GET,https://localhost:8000/user,1607865097,,200
+bf0ceb,::1,GET,https://localhost:8000/css/style.css,1607865101,16cb4b,404
+16cb4b,::1,GET,https://localhost:8000/css/style.css,1607865101,,404
