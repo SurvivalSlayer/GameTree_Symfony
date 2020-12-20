@@ -87,7 +87,7 @@ final class Versions
   'symfony/property-access' => 'v5.2.0@5cf86761edaf58376845a96ea6c0d28d475d5ad3',
   'symfony/property-info' => 'v5.2.0@69ca096d096a0a58457818a5a2d1ce51f5f14909',
   'symfony/routing' => 'v5.2.0@130ac5175ad2fd417978baebd8062e2e6b2bc28b',
-  'symfony/security-bundle' => 'v5.2.0@6f05ceafa23cf7170dfe62c4aaf920a353aa7a25',
+  'symfony/security-bundle' => 'v5.2.1@5a4e431445432c02b88c885c778765b50d92c6d5',
   'symfony/security-core' => 'v5.2.0@b13a8f90de288c2f263847bc39cf33dee70996d9',
   'symfony/security-csrf' => 'v5.2.0@d98a521e3c7ffa15c142e8b1e68a55fdeb58d4b7',
   'symfony/security-guard' => 'v5.2.0@0fb0e644feac3d6a122c2c27c9ef8823ba7f1c49',
@@ -105,10 +105,10 @@ final class Versions
   'twig/extra-bundle' => 'v3.1.1@a7c5799cf742ab0827f5d32df37528ee8bf5a233',
   'twig/twig' => 'v3.1.1@b02fa41f3783a2616eccef7b92fbc2343ffed737',
   'webimpress/safe-writer' => '2.1.0@5cfafdec5873c389036f14bf832a5efc9390dcdd',
-  'symfony/polyfill-ctype' => '*@',
-  'symfony/polyfill-iconv' => '*@',
-  'symfony/polyfill-php72' => '*@',
-  '__root__' => 'No version set (parsed as 1.0.0)@',
+  'symfony/polyfill-ctype' => '*@8af3116585d6bd81dfcb414bb436ed94bdab3c89',
+  'symfony/polyfill-iconv' => '*@8af3116585d6bd81dfcb414bb436ed94bdab3c89',
+  'symfony/polyfill-php72' => '*@8af3116585d6bd81dfcb414bb436ed94bdab3c89',
+  '__root__' => 'dev-main@8af3116585d6bd81dfcb414bb436ed94bdab3c89',
 );
 
     private function __construct()

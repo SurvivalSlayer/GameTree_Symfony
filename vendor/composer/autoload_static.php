@@ -409,6 +409,7 @@ class ComposerStaticInitf2e1d119782de7c76e6c9d3984cbc244
 
     public static $classMap = array (
         'App\\Controller\\Controller' => __DIR__ . '/../..' . '/src/Controller/Controller.php',
+        'App\\Controller\\UserController' => __DIR__ . '/../..' . '/src/Controller/UserController.php',
         'App\\Entity\\User' => __DIR__ . '/../..' . '/src/Entity/User.php',
         'App\\Kernel' => __DIR__ . '/../..' . '/src/Kernel.php',
         'App\\Repository\\UserRepository' => __DIR__ . '/../..' . '/src/Repository/UserRepository.php',
